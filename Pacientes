@@ -1,0 +1,51 @@
+[
+  {
+    "nombre": "Esmeralda",
+    "peso": 58,
+    "altura": 1.80,
+    "gordura": 19,
+    "imc": 16.82
+  },
+  {
+    "nombre": "Manolo",
+    "peso": 80,
+    "altura": 1.9,
+    "gordura": 20,
+    "imc": 24.00
+  },
+  {
+    "nombre": "Marcela",
+    "peso": 75,
+    "altura": 1.9,
+    "gordura": 10,
+    "imc": 20.00
+  },
+  {
+    "nombre": "Marceline",
+    "peso": 80,
+    "altura": 1.9,
+    "gordura": 30,
+    "imc": 22.00
+  },
+  {
+    "nombre": "Carlos",
+    "peso": 43,
+    "altura": 1.00,
+    "gordura": 15,
+    "imc": 14.73
+  },
+  {
+    "nombre": "Zaahen",
+    "peso": 80,
+    "altura": 2.00,
+    "gordura": 18,
+    "imc": 23.00
+  },
+  {
+    "nombre": "Bilbo",
+    "peso": 46,
+    "altura": 1.31,
+    "gordura": 9,
+    "imc": 1.23
+  }
+]
